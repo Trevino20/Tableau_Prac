@@ -1,4 +1,4 @@
-    BoomBikes Bike Sharing 
+BoomBikes Bike Sharing 
             Introduction 
 The dataset consists sales data of the Boom-Bikes bike sharing of each year from 2011 
 to 2016. The dataset was downloaded from kaggle. It consists of information like 
